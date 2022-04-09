@@ -1,0 +1,14 @@
+#EXTINF:-0690,RPCTV
+https://stmv.video.gmpro.top/rpctv/rpctv/playlist.m3u8
+#EXTINF:-0690,GlobalTv
+https://stmv.video.gmpro.top/global/smil:transcoder.smil/playlist.m3u8
+#EXTINF:-0690,Global TV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-0690,Radio Miami Color Tv
+https://stmv.video.gmpro.top/miamitv/miamitv/playlist.m3u8
+#EXTINF:-0690,OXIGENO tV
+https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
+#EXTINF:-0690,Sur tV
+https://stmv.video.gmpro.top/surtv/surtv/playlist.m3u8
+#EXTINF:-0690,Charrua tv
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
